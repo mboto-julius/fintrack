@@ -1,16 +1,29 @@
-# fintrack
+# FinTRACK
 
-A new Flutter project.
+**FinTRACK** is a Flutter-based mobile application for tracking personal and business expenses. The backend is powered by **Laravel**, providing a robust API for managing users, transactions, budgets, and financial analytics.
+
+## Features
+
+- Track income and expenses in real-time  
+- Categorize transactions for better financial insights  
+- Generate reports and summaries of your spending  
+- Secure user authentication and profile management  
+- Intuitive and responsive Flutter UI  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for the FinTRACK Flutter application. To get it running locally:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK ([Install Flutter](https://docs.flutter.dev/get-started/install))  
+- Laravel backend running locally or on a server  
+- A code editor (e.g., VS Code, Android Studio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/fintrack-flutter.git
+cd fintrack-flutter
