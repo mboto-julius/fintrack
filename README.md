@@ -25,5 +25,5 @@ This project is a starting point for the FinTRACK Flutter application. To get it
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fintrack-flutter.git
-cd fintrack-flutter
+git clone git@github.com:mboto-julius/fintrack.git
+cd fintrack
